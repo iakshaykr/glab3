@@ -4,3 +4,6 @@
 [submodule "vr1"]
 	path = vr1
 	url = https://github.com/iakshaykr/vr1.git
+[submodule "glab3"]
+	path = glab3
+	url = https://github.com/iakshaykr/glab3.git
